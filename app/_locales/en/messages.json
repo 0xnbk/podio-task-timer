@@ -1,0 +1,10 @@
+{
+  "appName": {
+    "message": "Podio Task Timer",
+    "description": "The name of the application"
+  },
+  "appDescription": {
+    "message": "Give your podio task a time field",
+    "description": "The description of the application"
+  }
+}
